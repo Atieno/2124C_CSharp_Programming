@@ -1,0 +1,6 @@
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\2124C_CSharp_Programming\TimeProg\bin\Debug\TimeProg.exe.config
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\2124C_CSharp_Programming\TimeProg\bin\Debug\TimeProg.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\2124C_CSharp_Programming\TimeProg\bin\Debug\TimeProg.pdb
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\2124C_CSharp_Programming\TimeProg\obj\Debug\TimeProg.csprojResolveAssemblyReference.cache
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\2124C_CSharp_Programming\TimeProg\obj\Debug\TimeProg.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\2124C_CSharp_Programming\TimeProg\obj\Debug\TimeProg.pdb
